@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-floral-design-wreath-flower-garland-purple-purple-flower-wreath-5aa25868147026.5306929315205889040837.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-floral-design-wreath-flower-garland-purple-purple-flower-wreath-5aa25868147026.5306929315205889040837-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-floral-design-wreath-flower-garland-purple-purple-flower-wreath-5aa25868147026.5306929315205889040837-2.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

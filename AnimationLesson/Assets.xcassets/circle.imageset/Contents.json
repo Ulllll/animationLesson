@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-circle-coreldraw-round-frame-5a7a889d3367f3.9356115815179798052106.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-circle-coreldraw-round-frame-5a7a889d3367f3.9356115815179798052106-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "kisspng-circle-coreldraw-round-frame-5a7a889d3367f3.9356115815179798052106-2.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
